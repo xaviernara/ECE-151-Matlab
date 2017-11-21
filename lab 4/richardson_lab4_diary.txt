@@ -1,0 +1,1024 @@
+
+full_name =
+
+Xavier Richardson
+
+Xavier Richardson
+richardson_lab4
+Xavier Richardson
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+{Error using <a href="matlab:helpUtils.errorDocCallback('input')" style="font-weight:bold">input</a>
+Not enough input arguments.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 7)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',7,0)">line 7</a>)
+smallest=input()
+} 
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+{Error using <a href="matlab:helpUtils.errorDocCallback('input')" style="font-weight:bold">input</a>
+The first argument to INPUT must be a string.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 7)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',7,0)">line 7</a>)
+smallest=input(9)
+} 
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+{Error using <a href="matlab:helpUtils.errorDocCallback('input')" style="font-weight:bold">input</a>
+The first argument to INPUT must be a string.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 7)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',7,0)">line 7</a>)
+smallest=input(1)
+} 
+helpUtils.errorDocCallback('input')
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+1:{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 7)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',7,0)">line 7</a>)
+
+} 
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 7)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',7,0)">line 7</a>)
+
+} 
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 7)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',7,0)">line 7</a>)
+
+} 
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 7)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',7,0)">line 7</a>)
+
+} 
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 7)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',7,0)">line 7</a>)
+
+} 
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 7)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',7,0)">line 7</a>)
+
+} 
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:-5
+enter a smallest number:5
+enter a number:10
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:-5
+
+smallest =
+
+    -5
+
+enter a smallest number:5
+
+largest =
+
+     5
+
+enter a number:10
+
+number_of_elements =
+
+    10
+
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:-5
+
+smallest =
+
+    -5
+
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:-5
+
+smallest =
+
+    -5
+
+enter a largest number:5
+
+largest =
+
+     5
+
+enter a number:10
+
+number_of_elements =
+
+    10
+
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:-5
+
+smallest =
+
+    -5
+
+enter a largest number:5
+
+largest =
+
+     5
+
+enter a number:10
+
+number_of_elements =
+
+    10
+
+richardson_lab4
+{Error: <a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',10,52)">File: richardson_lab4.m Line: 10 Column: 52
+</a>Unbalanced or unexpected parenthesis or bracket.
+} 
+richardson_lab4
+{Error: <a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',10,46)">File: richardson_lab4.m Line: 10 Column: 46
+</a>Unbalanced or unexpected parenthesis or bracket.
+} 
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:
+
+smallest =
+
+     []
+
+enter a largest number:
+
+largest =
+
+     []
+
+enter a number:
+
+number_of_elements =
+
+     []
+
+
+t =
+
+     []
+
+richardson_lab4
+{Undefined function or variable 'number_of_elements'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 11)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,0)">line 11</a>)
+t=[number_of_elements; rand(smallest,largest)]
+} 
+richardson_lab4
+{Undefined function or variable 'number_of_elements'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 11)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,0)">line 11</a>)
+t=[number_of_elements; rand(smallest,largest)]
+} 
+
+richardson_lab4
+{Undefined function or variable 'number_of_elements'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 11)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,0)">line 11</a>)
+t=[number_of_elements; rand(smallest,largest)]
+} 
+richardson_lab4
+{Undefined function or variable 'number_of_elements'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 11)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,0)">line 11</a>)
+t=[number_of_elements; rand(smallest,largest)]
+} 
+richardson_lab4
+{Undefined function or variable 'number_of_elements'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 11)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,0)">line 11</a>)
+t=[number_of_elements; rand(smallest,largest)]
+} 
+richardson_lab4
+{Undefined function or variable 'number_of_elements'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 11)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,0)">line 11</a>)
+t=[number_of_elements; rand(smallest,largest)]
+} 
+clc
+richardson_lab4
+{Undefined function or variable 'number_of_elements'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 11)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,0)">line 11</a>)
+t=[number_of_elements; rand(smallest,largest)]
+} 
+richardson_lab4
+{Undefined function or variable 'smallest'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 11)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,0)">line 11</a>)
+t=[smallest+(largest-smallest)*rand(1,10), number_of_elements]
+} 
+richardson_lab4
+{Undefined function or variable 'smallest'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 11)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,0)">line 11</a>)
+t=[(smallest+(largest-smallest)*rand(1,10)), number_of_elements]
+} 
+richardson_lab4
+{Error: <a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,59)">File: richardson_lab4.m Line: 11 Column: 59
+</a>Unbalanced or unexpected parenthesis or bracket.
+} 
+richardson_lab4
+{Error: <a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,59)">File: richardson_lab4.m Line: 11 Column: 59
+</a>Unbalanced or unexpected parenthesis or bracket.
+} 
+richardson_lab4
+{Error: <a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,59)">File: richardson_lab4.m Line: 11 Column: 59
+</a>Unbalanced or unexpected parenthesis or bracket.
+} 
+richardson_lab4
+{Error: <a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,59)">File: richardson_lab4.m Line: 11 Column: 59
+</a>Unbalanced or unexpected parenthesis or bracket.
+} 
+richardson_lab4
+{Error: <a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,45)">File: richardson_lab4.m Line: 11 Column: 45
+</a>Unbalanced or unexpected parenthesis or bracket.
+} 
+richardson_lab4
+{Error: <a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,59)">File: richardson_lab4.m Line: 11 Column: 59
+</a>Unbalanced or unexpected parenthesis or bracket.
+} 
+richardson_lab4
+{Error: <a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,59)">File: richardson_lab4.m Line: 11 Column: 59
+</a>Unbalanced or unexpected parenthesis or bracket.
+} 
+richardson_lab4
+{Error: <a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,59)">File: richardson_lab4.m Line: 11 Column: 59
+</a>Unbalanced or unexpected parenthesis or bracket.
+} 
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:-5
+
+smallest =
+
+    -5
+
+enter a largest number:5
+
+largest =
+
+     5
+
+enter a number:10
+
+number_of_elements =
+
+    10
+
+
+t =
+
+    3.1472    4.0579   -3.7301    4.1338    1.3236   -4.0246   -2.2150    0.4688    4.5751    4.6489
+
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:-5
+
+smallest =
+
+    -5
+
+enter a largest number:5
+
+largest =
+
+     5
+
+enter a number:10
+
+number_of_elements =
+
+    10
+
+
+t =
+
+   -3.4239    4.7059    4.5717   -0.1462    3.0028   -3.5811   -0.7824    4.1574    2.9221    4.5949
+
+{Error using <a href="matlab:helpUtils.errorDocCallback('mtimes')" style="font-weight:bold"> * </a>
+Inner matrix dimensions must agree.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 12)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',12,0)">line 12</a>)
+f=2.*t.*exp(-2.*t)*cos(20./t+pi)
+} 
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:-5
+
+smallest =
+
+    -5
+
+enter a largest number:5
+
+largest =
+
+     5
+
+enter a number:10
+
+number_of_elements =
+
+    10
+
+
+t =
+
+    1.5574   -4.6429    3.4913    4.3399    1.7874    2.5774    2.4313   -1.0777    1.5548   -3.2881
+
+
+f =
+
+   1.0e+04 *
+
+   -0.0000   -3.9428   -0.0000    0.0000   -0.0000   -0.0000    0.0000    0.0018   -0.0000    0.4626
+
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:-5
+
+smallest =
+
+    -5
+
+enter a largest number:
+
+largest =
+
+     []
+
+enter a number:10
+
+number_of_elements =
+
+    10
+
+{Error using <a href="matlab:helpUtils.errorDocCallback('mtimes')" style="font-weight:bold"> * </a>
+Inner matrix dimensions must agree.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 11)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',11,0)">line 11</a>)
+t=[smallest+(largest-smallest)*rand(1,number_of_elements)]
+} 
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:-5
+
+smallest =
+
+    -5
+
+enter a largest number:5
+
+largest =
+
+     5
+
+enter a number:10
+
+number_of_elements =
+
+    10
+
+
+t =
+
+   -0.6126   -1.1844    2.6552    2.9520   -3.1313   -0.1024   -0.5441    1.4631    2.0936    2.5469
+
+
+f =
+
+   1.0e+03 *
+
+    0.0014   -0.0097   -0.0000   -0.0000    3.2673    0.0002    0.0019   -0.0001    0.0001   -0.0000
+
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:-5
+
+smallest =
+
+    -5
+
+enter a largest number:5
+
+largest =
+
+     5
+
+enter a number:10
+
+number_of_elements =
+
+    10
+
+
+t =
+
+   -2.2397    1.7970    1.5510   -3.3739   -3.8100   -0.0164    4.5974   -1.5961    0.8527   -2.7619
+
+
+f =
+
+   1.0e+03 *
+
+   -0.3476   -0.0000   -0.0001    5.3910    7.9459   -0.0000    0.0000    0.0777    0.0000    0.7958
+
+
+lab_part =
+
+lab#4:part#2
+
+lab#4:part#2
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:-5
+
+smallest =
+
+    -5
+
+enter a largest number:5
+
+largest =
+
+     5
+
+enter a number:10
+
+number_of_elements =
+
+    10
+
+
+t =
+
+    2.5127   -2.4490    0.0596    1.9908    3.9090    4.5929    0.4722   -3.6138   -3.5071   -2.4249
+
+
+f =
+
+   1.0e+03 *
+
+    0.0000   -0.2018    0.0001    0.0001   -0.0000    0.0000    0.0000    7.2892    6.5238   -0.2376
+
+lab#4:part#2
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:-5
+
+smallest =
+
+    -5
+
+enter a largest number:5
+
+largest =
+
+     5
+
+enter a number:10
+
+number_of_elements =
+
+    10
+
+
+t =
+
+    3.4072   -2.4572    3.1428   -2.5648    4.2926   -1.5002   -3.0340   -2.4892    1.1604   -0.2671
+
+
+f =
+
+   1.0e+03 *
+
+   -0.0000   -0.1885   -0.0000    0.0485    0.0000    0.0435    2.4967   -0.1300    0.0000    0.0008
+
+lab#4:part#2
+[a11 a12 a13] of coefficient matrix A{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 15)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',15,0)">line 15</a>)
+
+} 
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 8)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',8,0)">line 8</a>)
+
+} 
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 8)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',8,0)">line 8</a>)
+
+} 
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 8)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',8,0)">line 8</a>)
+
+} 
+-5
+
+ans =
+
+    -5
+
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:-5
+
+smallest =
+
+    -5
+
+enter a largest number:5
+
+largest =
+
+     5
+
+enter a number:10
+
+number_of_elements =
+
+    10
+
+
+t =
+
+   -1.4834    3.3083    0.8526    0.4972    4.1719   -2.1416    2.5720    2.5373   -1.1955    0.6782
+
+
+f =
+
+   35.0997   -0.0086    0.0326    0.2998   -0.0002 -309.2720   -0.0023    0.0009  -13.6530    0.1218
+
+lab#4:part#2
+[a11 a12 a13] of coefficient matrix A
+
+A1 =
+
+     []
+
+[a21 a22 a23] of coefficient matrix A
+
+A2 =
+
+     []
+
+[a31 a32 a33] of coefficient matrix A
+
+A3 =
+
+     []
+
+
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:-5
+
+smallest =
+
+    -5
+
+enter a largest number:5
+
+largest =
+
+     5
+
+enter a number:10
+
+number_of_elements =
+
+    10
+
+
+t =
+
+   -4.2415   -4.4605    0.3080    2.7917    4.3401   -3.7009    0.6882   -0.3061   -4.8810   -1.6288
+
+
+f =
+
+   1.0e+04 *
+
+    0.0122   -1.5136    0.0000   -0.0000    0.0000    0.7738    0.0000   -0.0001   -9.7758    0.0081
+
+lab#4:part#2
+[a11 a12 a13] of coefficient matrix A[3 -2 5]
+
+A1 =
+
+     3    -2     5
+
+[a21 a22 a23] of coefficient matrix A[-4.5 2 3]
+
+A2 =
+
+   -4.5000    2.0000    3.0000
+
+[a31 a32 a33] of coefficient matrix A[5 1 -2.5]
+
+A3 =
+
+    5.0000    1.0000   -2.5000
+
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:5
+
+smallest =
+
+     5
+
+enter a largest number:-5
+
+largest =
+
+    -5
+
+enter a number:10
+
+number_of_elements =
+
+    10
+
+
+t =
+
+    3.3782   -2.9428    1.8878   -0.2853    3.3435   -1.0198    2.3703   -1.5408   -1.8921   -2.4815
+
+
+f =
+
+   1.0e+03 *
+
+   -0.0000    1.8454    0.0000    0.0006   -0.0000    0.0113    0.0000    0.0615   -0.0687   -0.1449
+
+lab#4:part#2
+[a11 a12 a13] of coefficient matrix A:[3 -2 5]
+
+A1 =
+
+     3    -2     5
+
+[a21 a22 a23] of coefficient matrix A:[-4.5 2 3]
+
+A2 =
+
+   -4.5000    2.0000    3.0000
+
+[a31 a32 a33] of coefficient matrix A:[5 1 -2.5]
+
+A3 =
+
+    5.0000    1.0000   -2.5000
+
+enter constants column vector b [b1 b2 b3]:[7.5,5.5,4.5].^t
+{Error using <a href="matlab:helpUtils.errorDocCallback('power')" style="font-weight:bold"> .^ </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 18)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',18,0)">line 18</a>)
+b=input('enter constants column vector b [b1 b2 b3]:')
+} 
+enter constants column vector b [b1 b2 b3]:[7.5,5.5,4.5]^t
+{Error using <a href="matlab:helpUtils.errorDocCallback('mpower')" style="font-weight:bold"> ^ </a>
+Inputs must be a scalar and a square matrix.
+To compute elementwise POWER, use POWER (.^) instead.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 18)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',18,0)">line 18</a>)
+b=input('enter constants column vector b [b1 b2 b3]:')
+} 
+enter constants column vector b [b1 b2 b3]:[7.5,5.5,4.5]POWER(.^)t
+ [7.5,5.5,4.5]POWER(.^)t
+              |
+{Error: Unexpected MATLAB expression.
+} 
+richardson_lab4
+Xavier Richardson
+lab#4:part#1
+enter a smallest number:-5
+
+smallest =
+
+    -5
+
+enter a largest number:5
+
+largest =
+
+     5
+
+enter a number:10
+
+number_of_elements =
+
+    10
+
+
+t =
+
+   -0.4946   -4.1618   -2.7102    4.1334   -3.4762    3.2582    0.3834    4.9613   -4.2182   -0.5732
+
+
+f =
+
+   1.0e+03 *
+
+   -0.0024    3.1927    0.5597   -0.0000    6.2734   -0.0000    0.0001    0.0000    1.1252   -0.0034
+
+lab#4:part#2
+[a11 a12 a13] of coefficient matrix A:[3 -2 5]
+
+A1 =
+
+     3    -2     5
+
+[a21 a22 a23] of coefficient matrix A:[-4.5 2 3]
+
+A2 =
+
+   -4.5000    2.0000    3.0000
+
+[a31 a32 a33] of coefficient matrix A:[5 1 -2.5]
+
+A3 =
+
+    5.0000    1.0000   -2.5000
+
+enter constants column vector b [b1 b2 b3]:[7.5,5.5,4.5].^t
+{Error using <a href="matlab:helpUtils.errorDocCallback('power')" style="font-weight:bold"> .^ </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 18)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',18,0)">line 18</a>)
+b=input('enter constants column vector b [b1 b2 b3]:')
+} 
+enter constants column vector b [b1 b2 b3]:[7.5,5.5,4.5]'
+
+b =
+
+    7.5000
+    5.5000
+    4.5000
+
+richardson_lab4
+{Undefined function or variable 'b'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 19)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',19,0)">line 19</a>)
+x=b.\A
+} 
+richardson_lab4
+enter constants column vector b [b1 b2 b3]:[7.5,5.5,4.5]'
+
+b =
+
+    7.5000
+    5.5000
+    4.5000
+
+{Undefined function or variable 'A'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 19)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',19,0)">line 19</a>)
+x=b.\A
+} 
+richardson_lab4
+[a11 a12 a13] of coefficient matrix A:[3 -2 5]
+
+A1 =
+
+     3    -2     5
+
+[a21 a22 a23] of coefficient matrix A:[-4.5 2 3]
+
+A2 =
+
+   -4.5000    2.0000    3.0000
+
+[a31 a32 a33] of coefficient matrix A:[5 1 -2.5]
+
+A3 =
+
+    5.0000    1.0000   -2.5000
+
+enter constants column vector b [b1 b2 b3]:[7.5,5.5,4.5]'
+
+b =
+
+    7.5000
+    5.5000
+    4.5000
+
+{Undefined function or variable 'A'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 19)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',19,0)">line 19</a>)
+x=b.\A
+} 
+richardson_lab4
+[a11 a12 a13] of coefficient matrix A:[3 -2 5]
+
+A1 =
+
+     3    -2     5
+
+[a21 a22 a23] of coefficient matrix A:[-4.5 2 3]
+
+A2 =
+
+   -4.5000    2.0000    3.0000
+
+[a31 a32 a33] of coefficient matrix A:[5 1 -2.5]
+
+A3 =
+
+    5.0000    1.0000   -2.5000
+
+enter constants column vector b [b1 b2 b3]:[7.5,5.5,4.5]'
+
+b =
+
+    7.5000
+    5.5000
+    4.5000
+
+{Undefined function or variable 'A'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 19)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',19,0)">line 19</a>)
+x=b.\A1+A2+A3
+} 
+richardson_lab4
+[a11 a12 a13] of coefficient matrix A:[3 -2 5]
+
+A1 =
+
+     3    -2     5
+
+[a21 a22 a23] of coefficient matrix A:[-4.5 2 3]
+
+A2 =
+
+   -4.5000    2.0000    3.0000
+
+[a31 a32 a33] of coefficient matrix A:[5 1 -2.5]
+
+A3 =
+
+    5.0000    1.0000   -2.5000
+
+enter constants column vector b [b1 b2 b3]:[7.5,5.5,4.5]'
+
+b =
+
+    7.5000
+    5.5000
+    4.5000
+
+{Error using <a href="matlab:helpUtils.errorDocCallback('ldivide')" style="font-weight:bold"> .\ </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 19)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',19,0)">line 19</a>)
+x=b.\A
+} 
+richardson_lab4
+[a11 a12 a13] of coefficient matrix A:[3 -2 5]
+
+A =
+
+     3    -2     5
+
+[a21 a22 a23] of coefficient matrix A:[-4.5 2 3]
+{Subscripted assignment dimension mismatch.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 16)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',16,0)">line 16</a>)
+A(2,1:3)=input('[a21 a22 a23] of coefficient matrix A:')
+} 
+richardson_lab4
+[a11 a12 a13] of coefficient matrix A:[3 -2 5]
+
+A =
+
+     3    -2     5
+
+[a21 a22 a23] of coefficient matrix A:[-4.5 2 3]
+
+A =
+
+    3.0000   -2.0000    5.0000
+   -4.5000    2.0000    3.0000
+
+[a31 a32 a33] of coefficient matrix A:[5 1 -2.5]
+
+A =
+
+    3.0000   -2.0000    5.0000
+   -4.5000    2.0000    3.0000
+    5.0000    1.0000   -2.5000
+
+enter constants column vector b [b1 b2 b3]:[7.5 5.5 4.5]'
+
+b =
+
+    7.5000
+    5.5000
+    4.5000
+
+
+x =
+
+    1.2692
+    2.8113
+    1.8630
+
+    1.2692
+    2.8113
+    1.8630
+
+richardson_lab4
+[a11 a12 a13] of coefficient matrix A:[3 -2 5]
+
+A =
+
+     3    -2     5
+
+[a21 a22 a23] of coefficient matrix A:[-4.5 2 3]
+
+A =
+
+    3.0000   -2.0000    5.0000
+   -4.5000    2.0000    3.0000
+
+[a31 a32 a33] of coefficient matrix A:[5 1 -2.5]
+
+A =
+
+    3.0000   -2.0000    5.0000
+   -4.5000    2.0000    3.0000
+    5.0000    1.0000   -2.5000
+
+enter constants column vector b [b1 b2 b3]:[7.5 5.5 4.5]'
+
+b =
+
+    7.5000
+    5.5000
+    4.5000
+
+
+x =
+
+    1.2692
+    2.8113
+    1.8630
+
+    1.2692
+    2.8113
+    1.8630
+
+richardson_lab4
+[a11 a12 a13] of coefficient matrix A:{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('richardson_lab4', 'I:\Matlab\richardson_lab4.m', 15)" style="font-weight:bold">richardson_lab4</a> (<a href="matlab: opentoline('I:\Matlab\richardson_lab4.m',15,0)">line 15</a>)
+
+} 
+{Undefined function or variable 'x'.
+} 
+{Undefined function or variable 'x'.
+} 
+{Undefined function or variable 'x'.
+} 

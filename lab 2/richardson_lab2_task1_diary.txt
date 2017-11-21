@@ -1,0 +1,212 @@
+
+full_name =
+
+xavier richardson
+
+xavier richardson
+
+a =
+
+     5
+
+
+b =
+
+   -3.7500
+
+
+c =
+
+    1.0472
+
+
+row_vector0 =
+
+  Columns 1 through 5
+
+    5.0000   -3.7500    1.0472  120.0000    3.7500
+
+  Columns 6 through 8
+
+    0.5716   92.0000   -3.0000
+
+
+row_vector1 =
+
+  Columns 1 through 5
+
+   16.0000   15.5000   15.0000   14.5000   14.0000
+
+  Columns 6 through 10
+
+   13.5000   13.0000   12.5000   12.0000   11.5000
+
+  Columns 11 through 15
+
+   11.0000   10.5000   10.0000    9.5000    9.0000
+
+  Columns 16 through 20
+
+    8.5000    8.0000    7.5000    7.0000    6.5000
+
+  Columns 21 through 25
+
+    6.0000    5.5000    5.0000    4.5000    4.0000
+
+  Columns 26 through 30
+
+    3.5000    3.0000    2.5000    2.0000    1.5000
+
+  Columns 31 through 33
+
+    1.0000    0.5000         0
+
+
+ans =
+
+    33
+
+
+row_vector2 =
+
+  Columns 1 through 5
+
+   16.0000   15.4844   14.9688   14.4531   13.9375
+
+  Columns 6 through 10
+
+   13.4219   12.9063   12.3906   11.8750   11.3594
+
+  Columns 11 through 15
+
+   10.8438   10.3281    9.8125    9.2969    8.7813
+
+  Columns 16 through 20
+
+    8.2656    7.7500    7.2344    6.7188    6.2031
+
+  Columns 21 through 25
+
+    5.6875    5.1719    4.6563    4.1406    3.6250
+
+  Columns 26 through 30
+
+    3.1094    2.5938    2.0781    1.5625    1.0469
+
+  Columns 31 through 33
+
+    0.5313    0.0156   -0.5000
+
+
+column_vector0 =
+
+   -9.8600
+    4.4500
+    0.4254
+    6.4747
+   -3.0000
+   -4.0000
+
+
+element4 =
+
+   14.5000
+
+
+row_vector1_double_length =
+
+    66
+
+
+first5_elements =
+
+   16.0000   15.5000   15.0000   14.5000   14.0000
+
+
+even_elements =
+
+  Columns 1 through 5
+
+   15.5000   14.5000   13.5000   12.5000   11.5000
+
+  Columns 6 through 10
+
+   10.5000    9.5000    8.5000    7.5000    6.5000
+
+  Columns 11 through 15
+
+    5.5000    4.5000    3.5000    2.5000    1.5000
+
+  Column 16
+
+    0.5000
+
+
+my_elements1 =
+
+  Columns 1 through 5
+
+   15.0000   13.0000   12.0000    8.5000    8.0000
+
+  Columns 6 through 7
+
+    7.5000    7.0000
+
+
+my_elements1 =
+
+  Columns 1 through 5
+
+   15.0000   13.0000   12.0000    8.5000    8.0000
+
+  Columns 6 through 10
+
+    7.5000    7.0000   -1.5708   -1.0472   -0.5236
+
+  Columns 11 through 14
+
+         0    0.5236    1.0472    1.5708
+
+
+my_elements2 =
+
+  Columns 1 through 5
+
+   16.0000   15.5000   15.0000   14.5000   14.0000
+
+  Columns 6 through 10
+
+   15.0000   13.0000   12.0000    8.5000    8.0000
+
+  Columns 11 through 15
+
+    7.5000    7.0000   -1.5708   -1.0472   -0.5236
+
+  Columns 16 through 19
+
+         0    0.5236    1.0472    1.5708
+
+
+my_elements2 =
+
+  Columns 1 through 5
+
+   16.0000   15.5000   15.0000   14.5000   15.0000
+
+  Columns 6 through 10
+
+   13.0000   12.0000    8.5000    7.5000    7.0000
+
+  Columns 11 through 15
+
+   -1.5708   -1.0472         0    0.5236    1.0472
+
+  Column 16
+
+    1.5708
+
+
+x =
+
+     8
+

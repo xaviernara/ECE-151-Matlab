@@ -1,0 +1,22 @@
+     
+Richardosn_Lab1
+xavier_richardson
+
+c =
+
+  173.0192
+
+--------------------------------
+The value of scalar variable c is:
+--------------------------------
+  173.0192
+
+  Name      Size            Bytes  Class     Attributes
+
+  a         1x1                 8  double              
+  c         1x1                 8  double              
+  t         1x1                 8  double              
+
+Your variables are:
+
+a  c  t  
